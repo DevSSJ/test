@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Project
+                    Project GITHUB
                 </div>
 
                 <div class="links">
